@@ -1,0 +1,9 @@
+{
+"users": {
+"fesco": {
+"password": "fesco_pass_101,
+"active": true,
+"expires_at": "2026-12-19"
+}
+}
+}
